@@ -1,0 +1,14 @@
+{
+    "name": "alexandr-lex/frontend-bundle",
+    "description": "Simple Frontend bundle by Symfony 3",
+    "type": "ww",
+    "license": "FreeBSD",
+    "authors": [
+        {
+            "name": "AlexandrLex",
+            "email": "7alex.go@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
