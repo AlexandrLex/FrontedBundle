@@ -1,8 +1,8 @@
 {
     "name": "alexandr-lex/frontend-bundle",
     "description": "Simple Frontend bundle by Symfony 3",
-    "type": "ww",
-    "license": "FreeBSD",
+    "type": "library",
+    "license": "GPL",
     "authors": [
         {
             "name": "AlexandrLex",
