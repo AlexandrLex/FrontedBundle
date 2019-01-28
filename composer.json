@@ -2,7 +2,7 @@
     "name": "alexandr-lex/frontend-bundle",
     "description": "Simple Frontend bundle by Symfony 3",
     "type": "library",
-    "license": "GPL",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "AlexandrLex",
